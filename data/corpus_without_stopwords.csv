@@ -1,0 +1,31 @@
+Category,Text,Text_Without_Stopwords
+Greeting,"Hello, how are you?","Hello, how you?"
+Greeting,Good morning!,Good morning!
+Greeting,"Hi, nice to meet you!","Hi, nice meet you!"
+Greeting,Hey there!,Hey there!
+Greeting,What's up?,What's up?
+Small Talk,How's the weather today?,How's weather today?
+Small Talk,Did you watch the game last night?,Did you watch game last night?
+Small Talk,What are your weekend plans?,What your weekend plans?
+Small Talk,That's interesting!,That's interesting!
+Small Talk,Can you believe it?,Can you believe it?
+Business,Let's schedule a meeting.,Let's schedule meeting.
+Business,Can you send me the report?,Can you send me report?
+Business,We need to increase our budget.,We need increase our budget.
+Business,The project deadline is next week.,project deadline next week.
+Business,I'm working on the presentation.,I'm working presentation.
+Education,What did you learn today?,What did you learn today?
+Education,Can you explain this concept?,Can you explain concept?
+Education,I'm studying for an exam.,I'm studying exam.
+Education,What books are you reading?,What books you reading?
+Education,The lecture was very informative.,lecture very informative.
+Technology,Have you updated your software?,Have you updated your software?
+Technology,My phone is not working properly.,My phone working properly.
+Technology,What programming languages do you know?,What programming languages do you know?
+Technology,This app is really useful.,app really useful.
+Technology,Do you use any AI tools?,Do you use any AI tools?
+Travel,Where did you go on vacation?,Where did you go vacation?
+Travel,I love visiting new places.,I love visiting new places.
+Travel,Do you have a favorite destination?,Do you have favorite destination?
+Travel,Can you recommend a good hotel?,Can you recommend good hotel?
+Travel,Traveling broadens the mind.,Traveling broadens mind.
